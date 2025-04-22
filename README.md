@@ -1,2 +1,2 @@
 # Projeto-Supermercado-StardewValley
-Codigos realizados na cadeira de estrutura de dados
+Projeto realizado para cadeira de P.O.O. (sem correções)
